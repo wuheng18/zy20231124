@@ -2310,11 +2310,11 @@
 
 {"key": "360kan0","name": "💗360","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/360kan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "qqkan0","name": "┃💗腾讯","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/qq","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "qqkan0","name": "💗腾讯","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/qq","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "aqy0","name": "💗爱奇艺","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi"," playUrl": "1","searchable": 1,"quickSearch": 1},
 
-{"key": "sohu0","name": "┃💗搜狐","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1},
+{"key": "sohu0","name": "💗搜狐","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1},
 
 
 
@@ -2356,9 +2356,9 @@
 
 
 
-{"key": "腾讯资源","name": "️┃🐧腾讯资源","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+{"key": "腾讯资源","name": "️🐧腾讯资源","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
-{"key": "芒果资源","name": "️┃🥭芒果资源","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+{"key": "芒果资源","name": "️🥭芒果资源","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
 {"key": "爱奇艺资源","name": "️🥝爱奇艺资源","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
