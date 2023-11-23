@@ -1,0 +1,21 @@
+{
+"直接播放":"1",
+"站名":"丝袜情迷",
+"主页url":"https://www.bihc4.top",
+"数组":"class=\"content-item\">&&</li>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"/index.php/vod/detail/id/&&.html\"",
+"链接前缀":"/index.php/vod/play/id/",
+"链接后缀":"/sid/1/nid/1.html",
+"线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
+"线路标题":"<span>&&</span>",
+"搜索url":"https://www.bihc4.top/index.php/vod/search.html?wd={wd}",
+
+"搜索模式":"1",
+
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类":"麻豆传媒$26#天美传媒$41#国际传媒$42#兔子先生$43#日本无码$31#星空无限$45#TS人妖$46#丝袜美腿$35#绿帽淫妻$49#制服丝袜$36#精品推荐$27",
+"分类url":"https://www.bihc4.top/index.php/vod/type/id/{cateId}.html"
+}
