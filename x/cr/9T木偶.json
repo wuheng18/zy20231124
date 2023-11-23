@@ -1,0 +1,17 @@
+ 
+ [
+        {
+        "name" : "9T",
+        "server" : "https://drive.9t.ee",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "木偶",
+        "server" : "https://www.kugutsu.ml",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    }]
+    
