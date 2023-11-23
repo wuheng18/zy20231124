@@ -1,0 +1,20 @@
+{
+"直接播放":"1",
+"站名":"两腿之间",
+"主页url":"https://www.ltzj.best",
+"数组":"class=\"vodlist_item\">&&</li>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"/index.php/vod/detail/&&.html\"",
+"链接前缀":"/index.php/vod/play/",
+"链接后缀":"/sid/1/nid/1.html",
+"线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
+"线路标题":"<span>&&</span>",
+"搜索url":"https://www.ltzj.best/index.php/vod/search.html?wd={wd}&submit=",
+"搜索模式":"1",
+
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类":"在线一区$20#在线二区$27#在线三区$34#在线四区$41",
+"分类url":"https://www.ltzj.best/index.php/vod/type/class/{class}/id/{cateId}/page/{catepg}/lang/{lang}/year/{year}.html"
+}

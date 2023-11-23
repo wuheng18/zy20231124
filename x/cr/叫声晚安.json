@@ -1,0 +1,18 @@
+{
+"直接播放":"1",
+"站名":"叫声晚安",
+"主页url":"https://www.callgoo9.click",
+"数组":"class=\"video-item\">&&</div>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
+"线路标题":"<span>&&</span>",
+"搜索url":"https://www.callgoo9.click/index.php/vodsearch/-------------.html?wd={wd}",
+"搜索模式":"1",
+
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类":"国产视频$1#国产传媒$160#日本视频$2#中文字幕$9#动画视频$6#91制片$162#天美传媒$163#蜜桃$164#皇家$165#星空传媒$166#京东传媒$167",
+"分类url":"https://www.callgoo9.click/index.php/vodtype/{cateId}-{catePg}.html"
+}
