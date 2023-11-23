@@ -1,0 +1,17 @@
+{
+"直接播放":"1",
+"站名":"奶多多",
+"主页url":"https://www.naidodo.pics",
+"数组":"<li>&&</li>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+
+"搜索url":"https://www.naidodo.pics/index.php/vod/search.html?wd={wd}",
+"搜索模式":"1",
+
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类":"国产传媒$160#步兵无码$28#无码中文$34#麻豆视频$161#91制片厂$162#天美传媒$163#蜜桃传媒$164#皇家华人$165#星空传媒$166#精东影业$167#乐播传媒$168#91茄子$169#性视界传媒$170#兔子先生$171#杏吧原创$172#玩偶姐姐$173#起点传媒$174#SA国际传媒$175#草莓猛料$176#PsychoPorn$177#糖心Vlog$178#葫芦影业$179#果冻传媒$180",
+"分类url":"https://www.naidodo.pics/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+}
