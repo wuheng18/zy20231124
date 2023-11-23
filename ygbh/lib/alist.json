@@ -1,0 +1,25 @@
+{
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro/"
+    },
+{
+      "name": "月光宝盒",
+      "server": "https://rtobms-5244.csb.app/"
+    },
+    {
+      "name": "动漫盘",
+      "server": "http://pan.smjc.cc"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    }
+    
+  ]
+}
