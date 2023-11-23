@@ -180,7 +180,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/云盘论坛.json",
-      "jar": "./lib/📀.jar"
+      "jar": "./lib/02.jar"
     },
     {
       "key": "俊哥磁力",
@@ -453,7 +453,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-      "jar": "./lib/🎥.jar"
+      "jar": "./lib/01.jar"
     },
     {
       "key": "no",
