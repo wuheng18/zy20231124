@@ -1,0 +1,20 @@
+{
+"直接播放":"1",
+"站名":"制服淫穴",
+"主页url":"https://zfyx6.xyz",
+"数组":"class=\"thumbnail\">&&</li>",
+"图片":"img src=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"/index.php/vod/detail/&&.html\"",
+"链接前缀":"/index.php/vod/play/",
+"链接后缀":"/sid/1/nid/1.html",
+"线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
+"线路标题":"<span>&&</span>",
+"搜索url":"https://zfyx6.xyz/index.php/vod/search.html?wd={wd}",
+"搜索模式":"1",
+
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类":"精品视频$20#日韩专区$61#传媒出品$80#精品综合$81#国产精品$27#国产探花$91#国产主播$70#国产传媒$60#日本无码$64#女优明星$66#制服诱惑$68#绿帽淫妻$92#SWAG$94#御姐福利$96#极品眉黑$57#JVID$95",
+"分类url":"https://zfyx6.xyz/index.php/vod/type/id/{cateId}/page/{catepg}.html"
+}

@@ -1,0 +1,15 @@
+{
+"站名": "左临右射",
+"主页url": "https://ht550.com:9527/",
+"直接播放": "1",
+"分类":"国产高清$guochan#传媒$chuanmei#VR视频$3#韩国视频$4#欧美视频$5#动画视频$6#中文字幕$9#国产传媒$160#泰国视频$82",
+"数组": "<div class=\"vod-item\">&&</div>",
+"图片": "data-original=\"&&\"",
+"标题": "class=\"vod-title\">&&</a>",
+"链接": "href=\"&&\"",
+"搜索url":"https://www.zlyspet.info/index.php/vodsearch/{wd}----------{pg}---.html",
+
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类url":"https://ht550.com:9527/type/{cateId}"
+}
